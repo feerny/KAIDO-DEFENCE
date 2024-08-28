@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "KAIDO DEFENCE",
+  "name": "KAIDO DEFENCE",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://www.bing.com/images/search?view=detailV2&ccid=BBBZtIy1&id=75428F8BDAE2436A4933FDDED006AD3BE974F0BF&thid=OIP.BBBZtIy1zzr_IIJfuOD5IgHaHa&mediaurl=https%3a%2f%2ficon-library.com%2fimages%2fdefense-icon%2fdefense-icon-18.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.041059b48cb5cf3aff20825fb8e0f922%3frik%3dv%252fB06TutBtDe%252fQ%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=defensa+personal+icono&simid=608019300980951120&FORM=IRPRST&ck=5FE515D7B624311748CAF623FFC91C80&selectedIndex=45&itb=1",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://www.bing.com/images/search?view=detailV2&ccid=BBBZtIy1&id=75428F8BDAE2436A4933FDDED006AD3BE974F0BF&thid=OIP.BBBZtIy1zzr_IIJfuOD5IgHaHa&mediaurl=https%3a%2f%2ficon-library.com%2fimages%2fdefense-icon%2fdefense-icon-18.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.041059b48cb5cf3aff20825fb8e0f922%3frik%3dv%252fB06TutBtDe%252fQ%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=defensa+personal+icono&simid=608019300980951120&FORM=IRPRST&ck=5FE515D7B624311748CAF623FFC91C80&selectedIndex=45&itb=1",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://www.bing.com/images/search?view=detailV2&ccid=BBBZtIy1&id=75428F8BDAE2436A4933FDDED006AD3BE974F0BF&thid=OIP.BBBZtIy1zzr_IIJfuOD5IgHaHa&mediaurl=https%3a%2f%2ficon-library.com%2fimages%2fdefense-icon%2fdefense-icon-18.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.041059b48cb5cf3aff20825fb8e0f922%3frik%3dv%252fB06TutBtDe%252fQ%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=defensa+personal+icono&simid=608019300980951120&FORM=IRPRST&ck=5FE515D7B624311748CAF623FFC91C80&selectedIndex=45&itb=1",
       "type": "image/png",
       "sizes": "512x512"
     }
